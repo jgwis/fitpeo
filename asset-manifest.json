@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitpeo/static/css/main.c8b60b89.css",
+    "main.js": "/fitpeo/static/js/main.baaaf1d4.js",
+    "index.html": "/fitpeo/index.html",
+    "main.c8b60b89.css.map": "/fitpeo/static/css/main.c8b60b89.css.map",
+    "main.baaaf1d4.js.map": "/fitpeo/static/js/main.baaaf1d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b60b89.css",
+    "static/js/main.baaaf1d4.js"
+  ]
+}
