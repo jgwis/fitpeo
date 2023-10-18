@@ -15,55 +15,55 @@ const LeftNavBar = () => {
         {
             icon: 'box-seam',
             label: 'Product',
-            link: '/product',
+            link: 'product',
             subChildren: [
                 {
                     label: 'Product 1',
-                    link: '/product',
+                    link: 'product',
                 },
             ],
         },
         {
             icon: 'person-square',
             label: 'Customers',
-            link: '/customer',
+            link: 'customer',
             subChildren: [
                 {
                     label: 'Customer 1',
-                    link: '/customer',
+                    link: 'customer',
                 },
             ]
         },
         {
             icon: 'wallet2',
             label: 'Income',
-            link: '/income',
+            link: 'income',
             subChildren: [
                 {
                     label: 'Income 1',
-                    link: '/income',
+                    link: 'income',
                 },
             ]
         },
         {
             icon: 'volume-up',
             label: 'Promote',
-            link: '/promote',
+            link: 'promote',
             subChildren: [
                 {
                     label: 'Promote 1',
-                    link: '/promote',
+                    link: 'promote',
                 },
             ]
         },
         {
             icon: 'question-diamond',
             label: 'Help',
-            link: '/help',
+            link: 'help',
             subChildren: [
                 {
                     label: 'Help 1',
-                    link: '/help',
+                    link: 'help',
                 },
             ]
         },
