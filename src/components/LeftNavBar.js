@@ -10,7 +10,7 @@ const LeftNavBar = () => {
         {
             icon: 'nut',
             label: 'Dashboard',
-            link: '/',
+            link: '/fitpeo',
         },
         {
             icon: 'box-seam',

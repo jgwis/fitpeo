@@ -10,7 +10,7 @@ function App() {
     <div className="App">
      <BrowserRouter>
      <Routes>
-      <Route path="/" element={<Layout />}>
+      <Route path="/fitpeo" element={<Layout />}>
       <Route index element={<Dashboard />}></Route>
       <Route path='*' element={<PageNotFound />}></Route>
       
